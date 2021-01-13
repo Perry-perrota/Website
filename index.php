@@ -51,7 +51,7 @@ if (isset($_POST["goLive"])) {
 
   <div class="jumbotron text-center border border-primary rounded">    
       <div class="row">
-        <div class="col-xs-12">
+        <div class="col-sm-12">
           <h1 class="products">What we believe</h1>
           <p>The world has evolved to become a global village.With technology, access to products and services is no longer limited by boundaries, why let your business be?</p>
           
@@ -64,7 +64,7 @@ if (isset($_POST["goLive"])) {
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-xs-12 text-center ">
+      <div class="col-sm-12 text-center ">
         <h1 class="products">What we offer</h1>
         <p>Get yourself an online presence.With the latest technologies you can expect:</p>
       </div>
@@ -148,21 +148,21 @@ if (isset($_POST["goLive"])) {
                 
                         <div class="error-msg" id="error-msg"></div>
     	<div class="row">
-    <div class="form-group col-xs-6">
+    <div class="form-group col-sm-6">
     <label for="username">Full Name</label>
     <input class="form-control" type="text" name="username">
     </div>    
-    <div class="form-group col-xs-6">
+    <div class="form-group col-sm-6">
     <label for="email">Email</label>
     <input class="form-control" type="text" name="email">
     </div>  
 </div>
     <div class="row">  
-    <div class="form-group col-xs-6">
+    <div class="form-group col-sm-6">
     <label for="telephone">Phone Number</label>
     <input class="form-control" type="text" name="telephone">
     </div>   
-    <div class="form-group col-xs-6">
+    <div class="form-group col-sm-6">
     <label for="package">Select package</label>
     <select class="form-control" name="package" style="border-radius:5px" >   
     <option value="Basic">Basic</option>
@@ -220,7 +220,7 @@ if (isset($_POST["goLive"])) {
     <footer class="text-center">
   <div class="container border border-primary rounded">
     <div class="row">
-      <div class="col-xs-12">
+      <div class="col-sm-12">
         <p class="products">With love <i class="fas fa-heart" style="font-size:15px;color:red"></i> © keyname.org. All rights reserved.</p>
       </div>
     </div>
