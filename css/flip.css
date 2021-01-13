@@ -1,0 +1,68 @@
+body,nav{
+  background-color:#FCA311;
+}
+.jumbotron{
+  background-color:#FCA311;
+}
+.navbar{
+	text-align: center;
+	display:inline-block;
+
+	
+
+}
+.navbar-brand{
+	font-family: 'Roboto Mono', monospace;
+		
+
+}
+span{
+	
+	display: inline-block;
+}
+.containerfluid{
+	align-items: center;
+	align-content: center;
+}
+.priceRow{
+	display: flex;
+  align-items: center;
+  color: #E63946; 
+	align-content: center;
+  background-color:#FCA311;
+}
+.card-header{
+	font-family: 'Roboto Mono', monospace;
+}
+
+.products{
+	color: #1D3557; 
+	align-content: center;
+  background-color:#FCA311;
+  
+}
+.btn{
+	background-color: #E63946;
+	color: #FCA311;
+}
+.product{
+  align-content:center;
+  background-color:#1D3557;
+}
+.features{
+	padding: : 5px;
+}
+.signupForm{
+	background-color:#FCA311;
+}
+.fas{
+	font-size: 30px;
+}
+.usage{
+	width: 286px;
+	height: 190.66;
+}
+.fieldUse{
+	background-color: #FCA311;
+	color: #1D3557;
+}
